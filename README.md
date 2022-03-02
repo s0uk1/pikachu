@@ -4,7 +4,7 @@ ta kmlto 3ad i realised i shouldve made the surprised pikachu meme but anyways ,
 <img width="481" alt="pikachu_i_guess" src="https://user-images.githubusercontent.com/49367673/156393974-e15ef01f-5d06-4cc1-a85f-038946e30532.png">
 </div> 
 <div align='center'>
-<p>and these are all of the versions of pikachu i could make , if you ask me , cursed pikachu is my favorite</p>
+<p>and these are all of the versions of pikachu i could make ,the cursed one is my fave cuz it really reflects my poor problem solving skills </p>
 </div> 
 
 
