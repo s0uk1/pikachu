@@ -8,7 +8,7 @@ ta kmlto 3ad i realised i shouldve made the surprised pikachu meme but anyways ,
 </div> 
 
 
-## :computer: How to run (assuming anyone would willingly want to run this mess 
+## :computer: How to run (assuming anyone would willingly want to run this mess)
 
 
 
