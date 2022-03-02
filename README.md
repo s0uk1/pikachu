@@ -14,7 +14,7 @@ ta kmlto 3ad i realised i shouldve made the surprised pikachu meme but anyways ,
 
 The function is written in C language and thus needs the **`gcc` compiler** and mlx w s7abatha to run.
 
-when compiling the code, add the source files and the required flag:
+when compiling the code, add the source file and the required flag:
 
 ```shell
 gcc pikachu.c -lmlx -framework OpenGL -framework AppKit
