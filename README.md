@@ -1,5 +1,5 @@
 # pikachu 🖌️
-ta kmlto 3ad i realised i shouldve made the surprised pikachu meme but anyways , here's pikachu pixel art drawn using mlx 
+ta kmlto 3ad i realised i shouldve made the surprised pikachu meme but anyways , here's pikachu pixel art drawn using mlx and yes its drawn manually pixel by pixel, no fancy coding just pure dedication
 <div align='center'>
 <img width="481" alt="pikachu_i_guess" src="https://user-images.githubusercontent.com/49367673/156393974-e15ef01f-5d06-4cc1-a85f-038946e30532.png">
 </div> 
